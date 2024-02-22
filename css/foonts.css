@@ -1,0 +1,35 @@
+/* ROBOTO */
+@font-face {
+    font-family: "Roboto700";
+    src: url(../foots/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Roboto400";
+    src: url(../foots/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+/* ROBOTO */
+
+/* RELEWAY */
+@font-face {
+    font-family: "Raleway700";
+    src: url(../foots/Raleway-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "Raleway900";
+    src: url(../foots/Raleway-Black.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "Raleway400";
+    src: url(../foots/Raleway-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Raleway100";
+    src: url(../foots/Raleway-Thin.ttf);
+    font-weight: 100;
+}
+/* RELEWAY */
